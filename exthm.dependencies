@@ -1,0 +1,13 @@
+[
+   "repository": "ReallySnow/android_kernel_zuk_msm8996",
+   "target_path": "kernel/zuk/msm8996",
+   "branch": "eleven",
+   "remote": "github"
+ },
+ {
+   "repository": "ReallySnow/proprietary_vendor_zuk",
+   "target_path": "vendor/zuk",
+   "branch": "eleven",
+   "remote": "github" 
+  }
+]
